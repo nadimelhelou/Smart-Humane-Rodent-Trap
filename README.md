@@ -1,9 +1,12 @@
 # Smart Humane Rodent Trap
-EK 210 Final Project
+Final Project for EK 210 - Engineering Design
 
-Goal: Design and build a rodent trap that captures, contains and releases a rodent without harming it.
+## Summary
+Design and build a rodent trap that captures, contains and releases a rodent without harming it.
 
-Smart functionalities implemented using Arduino.
-Functionalities include a notification system (text message when rodent is caught) and remote release (button + timer) in order to avoid direct contact with the animal.
+## Functionalities
+* Notification system: text message when rodent is caught
+* Remote release: button + timer in order to avoid direct contact with the animal.
 
+## Video + Picture
 https://drive.google.com/drive/folders/1FIzXXR-du5Wl7f-v8eP_rTXz6SjJMnbw?usp=sharing
